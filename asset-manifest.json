@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/basicprops/static/css/main.885983be.chunk.css",
-    "main.js": "/basicprops/static/js/main.7a497668.chunk.js",
-    "main.js.map": "/basicprops/static/js/main.7a497668.chunk.js.map",
+    "main.css": "/basicprops/static/css/main.ba9bc425.chunk.css",
+    "main.js": "/basicprops/static/js/main.62f69654.chunk.js",
+    "main.js.map": "/basicprops/static/js/main.62f69654.chunk.js.map",
     "runtime-main.js": "/basicprops/static/js/runtime-main.3f5756a1.js",
     "runtime-main.js.map": "/basicprops/static/js/runtime-main.3f5756a1.js.map",
     "static/js/2.7eed9b9f.chunk.js": "/basicprops/static/js/2.7eed9b9f.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.5cefe1f3.chunk.js": "/basicprops/static/js/3.5cefe1f3.chunk.js",
     "static/js/3.5cefe1f3.chunk.js.map": "/basicprops/static/js/3.5cefe1f3.chunk.js.map",
     "index.html": "/basicprops/index.html",
-    "static/css/main.885983be.chunk.css.map": "/basicprops/static/css/main.885983be.chunk.css.map",
+    "static/css/main.ba9bc425.chunk.css.map": "/basicprops/static/css/main.ba9bc425.chunk.css.map",
     "static/js/2.7eed9b9f.chunk.js.LICENSE.txt": "/basicprops/static/js/2.7eed9b9f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3f5756a1.js",
     "static/js/2.7eed9b9f.chunk.js",
-    "static/css/main.885983be.chunk.css",
-    "static/js/main.7a497668.chunk.js"
+    "static/css/main.ba9bc425.chunk.css",
+    "static/js/main.62f69654.chunk.js"
   ]
 }
