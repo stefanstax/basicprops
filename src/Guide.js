@@ -10,6 +10,7 @@ const guide = (props) => {
                 <li>Design is not important, understanding how props work is</li>
                 <li>Feel free to write for help, we can even schedule a free call</li>
             </ul> 
+            <a style={{color: "white", fontSize: "20px", backgroundColor: "#303030", padding: "10px", borderRadius: "4.5px", boxShadow: "0px 0px 5px black"}} href="https://github.com/stefanstax/basicprops" target="_blank">Clone Repository from GitHub</a>
         </div>
     )
 }

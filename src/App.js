@@ -19,7 +19,7 @@ function App() {
         :
         <>
           <header className="App-header">
-          <Intro intro="Task: Turn large component into smaller ones using props" display={startTask === "none" ? "none" : "flex"}  />
+            <Intro intro="Task: Turn large component into smaller ones using props" display={startTask === "none" ? "none" : "flex"} />
             <Entry triggerTest={runTask} display={startTask !== "none" ? "none" : null} />
             <Guide display={startTask === "none" ? "none" : "flex"} />
             <div style={{ display: `${startTask}`, flexDirection: "column" }}>
@@ -45,9 +45,9 @@ function App() {
               </div>
             </div>
           </header>
+          <Footer />
         </>
       }
-      <Footer />
     </div>
   );
 }
