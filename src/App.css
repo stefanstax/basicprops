@@ -7,10 +7,23 @@
   pointer-events: none;
 }
 
+a {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+p {
+  color: white;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+body {
+  background-color: #202020;
 }
 
 button {
@@ -26,7 +39,7 @@ button {
 }
 
 ul {
-  list-style: none;
+  list-style-type: decimal;
 }
 
 ul li {
